@@ -1,3 +1,7 @@
+### https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-37215/version_id-677193/year-2021/Apache-Log4j-2.14.1.html
+
+
+
 # Build project
 mvn clean install
 
